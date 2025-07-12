@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Mouli Singh!
 
-<!--
-**mouli-tech-zone/mouli-tech-zone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Teen Python Developer | 🎭 Script Writer | 💃 Choreographer  
+Welcome to my **tech zone** — where I build apps, tell stories, and create experiences!
 
-Here are some ideas to get you started:
+## 🚀 Projects I'm working on:
+- Python GUI Games (Tkinter)
+- Motivational Quote App
+- My first personal website (coming soon!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python, Tkinter
+- Creative Writing, Storyboarding
+- Teaching & Visual Explanations
+- Canva, Google Docs, Pydroid 3
+
+📫 Connect with me:  
+📧 rajawatmauli@gmail.com  
+🌐 [GitHub](https://github.com/mouli-tech-zone)
